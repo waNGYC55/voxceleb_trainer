@@ -22,7 +22,7 @@ In order to use data augmentation, also run:
 python ./dataprep.py --save_path data --augment
 ```
 
-In addition to the Python dependencies, `wget` and `ffmpeg` must be installed on the system.
+In addition to the Python dependencies , `wget` and `ffmpeg` must be installed on the system.
 
 ### Training examples
 
